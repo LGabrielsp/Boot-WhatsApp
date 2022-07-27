@@ -29,6 +29,5 @@ class WhatsappBot:
             time.sleep(3)
 
 bot = WhatsappBot()
-bot.EnviarMensagens()
-
+bot.EnviarMensagem()
                 
