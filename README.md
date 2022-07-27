@@ -1,2 +1,2 @@
-# Boot-WhatsApp
-Boot para automação do WhatsApp
+# Bot-WhatsApp
+Bot para automação do WhatsApp
